@@ -320,4 +320,66 @@ footer a:hover {
     .easy p {
         padding: 20px ;
     }
+    .mini{
+        margin: 20px 50px ;
+    }
+    .course h3 {
+        font-size: 30px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .course p {
+        padding-top: 10px;
+        font-size: 18px;
+        font-weight: lighter;
+        padding-bottom: 40px;
+    }
+    .cards{
+        display: block;
+        
+    }
+    .firebase{
+        margin-top: 20px;
+        box-shadow: 3px 3px 3px grey;
+        padding-top: 10px;
+        padding-bottom: 15px;
+        width: 300px;
+        height: 170px;
+        background-color: 
+        rgb(242, 242, 242);
+    }
+    .firebase img {
+     margin-left: 100px;
+    }
+    .firebase p {
+        font-size: 20px;
+    }
+    .plenty{
+        background-color: 
+        rgb(242, 242, 242);
+        box-shadow: 3px 3px 3px grey ;
+        margin-bottom: 20px;
+    }
+    .plenty h3 {
+        font-size: 23px;
+        font-weight: lighter;
+        padding:20px 50px ;
+    }
+    .plenty hr {
+        color: black;
+    }
+    .heading {
+        display: block;
+    }
+    .help-center{
+        margin: 30px;
+    }
+    .help-center p {
+     font-size: 20px;
+    }
+    footer a {
+        margin-left: 5px;
+        font-size: 10px;
+        color: rgb(81, 77, 77);
+        text-decoration: none;
+    }
 }
